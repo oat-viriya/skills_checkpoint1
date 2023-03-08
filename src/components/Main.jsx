@@ -53,7 +53,7 @@ function Main() {
         <div className="photo-container">
           <img
             className="profile-picture"
-            src="/assets/Image.png"
+            src="/assets/Photo_Auttasit.jpg"
             alt="Auttasit's photo"
           ></img>
         </div>
