@@ -1,0 +1,22 @@
+header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+  height: 10%;
+  margin-bottom: 30px;
+  background: #ff2950;
+  color: white;
+}
+
+.header-container {
+  text-align: start;
+  display: flex;
+  justify-content: flex-start;
+  padding: 0px 10%;
+}
+
+.header-title {
+  width: 100%;
+}

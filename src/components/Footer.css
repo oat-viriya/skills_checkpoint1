@@ -1,0 +1,50 @@
+footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 10%;
+  background: #f1f1f1;
+}
+
+.footer-container {
+  display: flex;
+  width: 100%;
+  padding: 0px 10%;
+  justify-content: space-between;
+}
+
+.email-icon-container {
+  display: flex;
+  width: auto;
+}
+
+.email-icon {
+  width: 24px;
+  height: 22px;
+}
+
+.icon-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 2px;
+  padding-top: 4px;
+  gap: 10px;
+}
+
+.copyright-container {
+  width: auto;
+  font-weight: 500;
+}
+
+.footer-icons-container {
+  display: flex;
+  gap: 10px;
+}
+
+.footer-icon {
+  width: 18px;
+  height: 18px;
+}
