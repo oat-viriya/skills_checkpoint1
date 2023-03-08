@@ -21,25 +21,25 @@ function Main() {
             <div className="social-networks-buttons-container">
               <button className="social-networks-buttons">
                 <img
-                  src="public/assets/facebook_icon.png"
+                  src="/assets/facebook_icon.png"
                   className="social-networks-icon"
                 ></img>
               </button>
               <button className="social-networks-buttons">
                 <img
-                  src="public/assets/twitter_icon.png"
+                  src="/assets/twitter_icon.png"
                   className="social-networks-icon"
                 ></img>
               </button>
               <button className="social-networks-buttons">
                 <img
-                  src="public/assets/instagram_icon.png"
+                  src="/assets/instagram_icon.png"
                   className="social-networks-icon"
                 ></img>
               </button>
               <button className="social-networks-buttons">
                 <img
-                  src="public/assets/telegram_icon.png"
+                  src="/assets/telegram_icon.png"
                   className="social-networks-icon"
                 ></img>
               </button>
@@ -53,7 +53,7 @@ function Main() {
         <div className="photo-container">
           <img
             className="profile-picture"
-            src="public/assets/Image.png"
+            src="/assets/Image.png"
             alt="Auttasit's photo"
           ></img>
         </div>
