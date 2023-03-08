@@ -8,7 +8,7 @@ function Footer() {
           <div className="icon-container">
             <img
               className="email-icon"
-              src="src/assets/Squircle.png"
+              src="public/assets/footer-icons/Squircle.png"
               alt="email"
             ></img>
             <div className="email-container">auttasit.v@gmail.com</div>
@@ -19,13 +19,13 @@ function Footer() {
           <div>
             <img
               className="footer-icon"
-              src="src/assets/footer-icons/Group 2.png"
+              src="public/assets/footer-icons/Group 2.png"
             ></img>
           </div>
           <div>
             <img
               className="footer-icon"
-              src="src/assets/footer-icons/Group 4.png"
+              src="public/assets/footer-icons/Group 4.png"
             ></img>
           </div>
         </div>
